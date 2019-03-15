@@ -32,7 +32,7 @@ youtube_username                          :
 features                                  :
     
   - title                                 : All the latest iOS features
-    description                           : Siri Shortcuts integration, Apple Watch app, custom notifications.
+    description                           : Siri Shortcuts integration, Apple Watch app, rich notifications, iMessage app.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Customisable
@@ -51,12 +51,12 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.0
+topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_color                       : "#000000"
+cover_overlay_transparency                : 1.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -72,7 +72,7 @@ feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#b5ff32"
-feature_icons_background_color            : "#ffffff"
+feature_icons_background_color            : "#000000"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
