@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Track your time in bed by taking off your watch at night, and putting it on in the morning.
+app_description                           : Track your sleep by taking off your watch at night, and putting it on in the morning.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -50,7 +50,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#181818"
 topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
@@ -71,8 +71,8 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#b5ff32"
-feature_icons_background_color            : "#000000"
+feature_icons_foreground_color            : "#000000"
+feature_icons_background_color            : "#b5ff32"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
