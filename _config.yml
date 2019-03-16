@@ -72,7 +72,7 @@ feature_title_color                       : "#b5ff32"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#b5ff32"
-feature_icons_background_color            : "#00000"
+feature_icons_background_color            : "#000000"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
