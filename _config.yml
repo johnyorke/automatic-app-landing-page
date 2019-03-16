@@ -30,8 +30,12 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+
+-   title                                 : Easy To Use
+    description                           : Just take your watch off to start your sleep, and put it on to end it.
+    fontawesome_icon_name                 : check
     
-  - title                                 : All the latest iOS features
+  - title                                 : Latest iOS Features
     description                           : Siri Shortcuts integration, Apple Watch app, rich notifications, iMessage app.
     fontawesome_icon_name                 : mobile
 
@@ -39,18 +43,18 @@ features                                  :
     description                           : Choose whether to track sleep or time in bed, and set a nightly target.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Secure and Private
-    description                           : All your data stays on your phone and safely encrypted within the Health app. No 3rd party analytics.
+  - title                                 : Secure
+    description                           : All your data stays on your phone and safely encrypted within the Health app.
     fontawesome_icon_name                 : lock
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Private
+    description                           : No 3rd party analyics and no ads. Your data is exactly that...yours.
+    fontawesome_icon_name                 : eye-slash
 
 
 
 # Theme Settings
-topbar_color                              : "#191919"
+topbar_color                              : "#101010"
 topbar_transparency                       : 1.0
 topbar_title_color                        : "#ffffff"
 
@@ -60,7 +64,7 @@ cover_overlay_transparency                : 1.0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#191919"
+body_background_color                     : "#101010"
 
 link_color                                : "#b5ff32"
 
