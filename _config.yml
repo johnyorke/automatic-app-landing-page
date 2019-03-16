@@ -30,7 +30,7 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
--   title                                 : Easy To Use
+  - title                                 : Easy To Use
     description                           : Just take your watch off to start your sleep, and put it on to end it.
     fontawesome_icon_name                 : check
     
