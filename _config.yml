@@ -39,8 +39,8 @@ features                                  :
     description                           : Choose whether to track sleep or time in bed, and set a nightly target.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : No Analytics
-    description                           : All your data stays on your phone and safely encrypted within the Health app.
+  - title                                 : Secure and Private
+    description                           : All your data stays on your phone and safely encrypted within the Health app. No 3rd party analytics.
     fontawesome_icon_name                 : lock
 
   - title                                 : # New Feature Title
