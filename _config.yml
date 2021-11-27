@@ -33,10 +33,6 @@ features                                  :
   - title                                 : Easy To Use
     description                           : Just take your watch off to start your sleep, and put it on to end it.
     fontawesome_icon_name                 : check
-    
-  - title                                 : Latest iOS Features
-    description                           : Widgets, Apple Watch app, rich notifications, iMessage app.
-    fontawesome_icon_name                 : mobile
 
   - title                                 : Customisable
     description                           : Choose whether to track sleep or time in bed, and set a nightly target.
